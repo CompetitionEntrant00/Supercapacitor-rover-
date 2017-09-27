@@ -1,7 +1,5 @@
 
 
-//Distance Front Right
-
 float startBval; 
 
 float startVoltage = 0;
