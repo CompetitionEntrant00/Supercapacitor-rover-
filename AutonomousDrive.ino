@@ -28,8 +28,7 @@ int backPR = A1; // Back Photoresistor pin
 //Variables for Self-Learning
 float learn_rate = 0.0001;
 
-float karma[] = 
-  { 0.0018, 0.0017, 0.0013, 0.0012, 0.0011, 0.0010 };
+float karma[] = { 0.001, 0.001, 0.001, 0.001, 0.001, 0.001 };
 
 float Pred_Reward(float hold[]){
   float total = 0.0;
